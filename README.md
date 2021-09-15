@@ -7,7 +7,5 @@
 
 - [@listingslab](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/listingslab.zip)
 
-- [@pwaify](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/pwaify.zip)
-
-- [Blank Theme](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/themes/blank-theme.zip)
+- [Blankify Theme](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/themes/blank-theme.zip)
 
