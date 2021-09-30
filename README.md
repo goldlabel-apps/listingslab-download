@@ -1,11 +1,11 @@
-![logo](https://listingslab.com/wp-content/uploads/2021/09/48_machine.png)
-# Download Listingslab Software
+## Free Download
 
-> Download the latest versions of Open Source Listingslab Software
+> Download the latest Open Source versions of Listingslab Software
 
-## Latest WordPress zips
+#### Latest WordPress zips
 
-- [@listingslab](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/listingslab.zip)
+- [listingslab.zip](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/listingslab.zip)
 
-- [Blankify Theme](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/themes/blank-theme.zip)
+- [pwaify.zip](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/pwaify.zip)
 
+![logo](https://listingslab.com/public/png/avatars/SmileyLight.png)
