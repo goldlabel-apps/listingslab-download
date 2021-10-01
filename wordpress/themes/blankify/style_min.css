@@ -1,0 +1,41 @@
+/*
+Theme Name: Blank
+Theme URI: https://listingslab.com
+Author: listingslab
+Contributers: Bryan Hadaway
+Author URI: https://calmestghost.com/
+Description: Hello there.
+Version: 14.4.8
+Requires at least: 5.0
+Tested up to: 5.7
+Requires PHP: 7.0
+License: GNU General Public License v3 or Later
+License URI: https://www.gnu.org/licenses/gpl.html
+Text Domain: generic
+
+Generic WordPress Theme © 2015-2021 GenericTools
+Generic is distributed under the terms of the GNU GPL
+*/
+
+#wrapper{display:flex;flex-direction:column;max-width:100%;min-height:100vh;margin:0 auto}
+#header, #container, #footer{padding:5%}
+#branding{float:left}
+#logo{max-height:100%}
+#container{flex:1;background:#fff}
+#content{width:75%;padding-right:5%;float:left}
+#sidebar{width:25%;float:right}
+#footer{clear:both}
+
+nav {
+	visibility: hidden;
+}
+#logo-container{
+	display:block;
+	height:35px;
+	margin-bottom:10px
+}
+
+a {
+	text-decoration: none;
+	color:  black;
+}
