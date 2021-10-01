@@ -46,5 +46,5 @@ A unique device, ip / host combination
 
 = I don't like it or it doesn't work, can you change it please? = 
 
-Sure. Please raise a [bug/issue](https://github.com/listingslab-software/listingslab/issues/new/choose) 
+Sure. Please raise a [bug/issue](https://github.com/listingslab-software/listingslab-download/issues/new) 
 Better still raise a Pull Request with a solution :)
