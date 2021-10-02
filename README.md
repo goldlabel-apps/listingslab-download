@@ -1,7 +1,9 @@
-> Download the latest Open Source versions of Listingslab Software
+> Download the latest Open Source Listingslab Software
 
 #### Latest WordPress zips
 
-[@Pingpong WordPress Plugin](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/listingslab.zip)
+[@Pingpong](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/pingpong.zip)
+
+> WordPress Plugin
 
 ![logo](https://listingslab.com/public/png/avatars/Smiley.png)
