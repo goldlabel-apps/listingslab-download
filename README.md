@@ -1,4 +1,4 @@
-[@Pingpong](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/pingpong.zip)
+- @Pingpong [pingpong.zip](https://github.com/listingslab-software/listingslab-download/raw/master/wordpress/plugins/pingpong.zip)
 
 #### Latest WordPress Plugins
 
