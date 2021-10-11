@@ -5,9 +5,9 @@
  * @package           listingslab
  *
  * @wordpress-plugin
- * Version:           1.3.4
+ * Version:           1.3.8
  * Plugin Name:       @Pingpong
- * Description:       Really connect with people on WordPress
+ * Description:       Connect better with WordPress
  * Plugin URI:        https://github.com/listingslab-software/listingslab-download
  * Author:            listingslab
  * Author URI:        https://listingslab.com

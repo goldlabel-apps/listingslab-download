@@ -1,6 +1,6 @@
 === @Pingpong ===
 
-Stable tag: 1.3.4
+Stable tag: 1.3.8
 Contributors: listingslab 
 Tags: react, listingslab, people
 Requires at least: 5.6
@@ -11,7 +11,7 @@ License URI: https://opensource.org/licenses/MIT
 
 == Description == 
 
-Really connect with people on WordPress
+Connect better with WordPress
 
 == Installation ==
 
